@@ -124,5 +124,3 @@ This project is open-source and available under the MIT License. Feel free to mo
 
 Happy Testing! 🚀
 ```
-
-This updated `README.md` file now includes comprehensive instructions for ChromeDriver setup and troubleshooting, ensuring it’s beginner-friendly.
